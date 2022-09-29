@@ -23,6 +23,7 @@ This repository is for shared code, data, and other things, but not the manuscri
         - Start a Julia session using `$ julia`
         - Activate the environment at the same location from within Julia using `] activate .`
             - You may need to go into the dev'd FLOWFarm repository and check out commit `ec5270203786d5bcf065fff8c80bd7710906a40e`
+            - the version of FLOWFarm used for this work is also available at [https://zenodo.org/badge/latestdoi/543173996]()
         - Run `include("provided_model.jl")`
     - Python
         - Run `$ python provided_model.py`
