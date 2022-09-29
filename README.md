@@ -1,6 +1,8 @@
 # A Comparison of Eight Optimization Methods Applied to a Wind Farm Layout Optimization Problem
 By Jared J. Thomas, Nicholas F. Baker, Paul Malisani, Erik Quaeghebeur, Sebastian Sanchez Perez-Moreno, John Jasa, Christopher Bay, Federico Tilli, David Bieniek, Nick Robinson, Andrew P. J. Stanley, Wesley Holt, and Andrew Ning.
 
+A manuscript submitted to Wind Energy Science.
+
 This repository is for shared code, data, and other things, but not the manuscript (which is handled on overleaf).
 
 - Optimization results can be found in the `.yaml` files in `./results/optimization-results/`
