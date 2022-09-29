@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/543173996.svg)](https://zenodo.org/badge/latestdoi/543173996)
+
 # A Comparison of Eight Optimization Methods Applied to a Wind Farm Layout Optimization Problem
 By Jared J. Thomas, Nicholas F. Baker, Paul Malisani, Erik Quaeghebeur, Sebastian Sanchez Perez-Moreno, John Jasa, Christopher Bay, Federico Tilli, David Bieniek, Nick Robinson, Andrew P. J. Stanley, Wesley Holt, and Andrew Ning.
 
